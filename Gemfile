@@ -6,9 +6,9 @@ gem 'rails', '4.2.0'
 # Use sqlite3 as the database for Active Record
 gem 'pg'
 
-gem 'mail_form'
+gem 'mail_form', '~> 1.5.0.rc'
 
-gem 'simple_form'
+gem 'simple_form', '~> 3.0.0.rc'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
