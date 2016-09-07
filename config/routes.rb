@@ -9,7 +9,7 @@ Rails.application.routes.draw do
 
   resources "contacts", only: [:new, :create]
 
-  match '/contacts',     to: 'contacts#new',             via: 'get'
+  
 
 
   # Example of regular route:
