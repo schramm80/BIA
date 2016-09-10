@@ -243,7 +243,7 @@ header .intro-text {
 }
 header .intro-text .intro-lead-in {
   font-family: 'Lato', sans-serif;
-  font-style: italic;
+  font-style: normal;
   color: #ffffff;
   font-weight: 700;
   font-size: 40px;
@@ -265,7 +265,7 @@ header .intro-text .intro-heading {
   }
   header .intro-text .intro-lead-in {
     font-family: 'Lato', sans-serif;
-    font-style: italic;
+    font-style: normal;
     font-size: 40px;
     line-height: 40px;
     margin-bottom: 25px;
@@ -291,7 +291,7 @@ section h3.section-subheading {
   font-size: 16px;
   font-family: "Lato", sans-serif;
   text-transform: none;
-  font-style: italic;
+  font-style: normal;
   font-weight: 400;
   margin-bottom: 75px;
 }
