@@ -10,7 +10,6 @@ gem 'mail_form'
 
 gem 'simple_form'
 
-gem 'bootstrap-sass', '3.3.1.0'
 
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
@@ -46,6 +45,8 @@ group :development, :test do
   gem 'byebug'
 
   gem 'sqlite3'
+
+  gem 'bootstrap-sass', '3.3.1.0'
 
   # Access an IRB console on exception pages or by using <%= console %> in views
   gem 'web-console', '~> 2.0'
