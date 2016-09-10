@@ -10,6 +10,8 @@ gem 'mail_form'
 
 gem 'simple_form'
 
+gem 'bootstrap-sass', '3.3.1.0'
+
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
